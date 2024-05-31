@@ -1,7 +1,7 @@
 
-
-![Screenshot 2024-05-23 210243](https://github.com/enesdemir41/CTFs/assets/49167863/ce47ecc0-7c79-461f-b85a-88faff072307)
 Karşımızda verdiğimiz URL adresinin Html içeriğini indiren bir uygulama var.
+![Screenshot 2024-05-23 210243](https://github.com/enesdemir41/CTFs/assets/49167863/ce47ecc0-7c79-461f-b85a-88faff072307)
+
 
 
 Sayfanın kaynak kodlarını incelediğimizde /files adlı bir dizin oldugğunu görüyoruz
